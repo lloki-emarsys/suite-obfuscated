@@ -2,9 +2,9 @@
 class emarsys_sensitive::suite::rds::emea_rdslimangomarketingdb_rds {
 
   $params = {
-    'RO_VIP_CONSTRING'  => 'ZOnNp://tuMPyqHX:8oqMTsayzvL3CahtqkqrCeWkdldgaIGF@WvmPgmpzFNrkbZLOHJqQn-wHx-Eq.hTX.boCinQg.kGD:KHoR/IMuobKNsFhQzFMzWwGbPR',
-    'RW_VIP_CONSTRING'  => 'Mynjj://qvJPbYEo:NBiFPL5fQTkCULrbrOwIosUBIxxJy3yW@ttpYcVaEwEsvHmJuXPIfp-cHz.lvn.JEHkGOY.EGq:2dHW/UexSQmLpzeMciKDMjcXqT',
-    'OPS_VIP_CONSTRING' => 'eBySb://nlTylyahm:swUJwaaJiPZBXPiObNcPhqDbMWOkDApV@sYJKKTjHlenQGXxmhAcaK-gOE.boz.yWmqcjj.BsC:U0hA/',
+    'RO_VIP_CONSTRING'  => 'QeRjL://fwtwJruc:xBNbI4PYkadYhwSE9cw0udxHUqA6RFIM@tmLIeXAnMNahObMGunuYF-ZYb-Pt.CPH.VLAMKLn.nHT:bzRH/QKWkAAUnYhYqxRFrVntkQ',
+    'RW_VIP_CONSTRING'  => 'tfSlk://UBGrKOln:arIPPJHnGIyXNBn3jBWgllqWCHBDaiMx@OrCiIqinMcPBspwkJnyRi-WmD.sYp.vRbCqDk.nWM:QZD9/lpHdNfAnoXbBsXnSAnzUv',
+    'OPS_VIP_CONSTRING' => 'YGQiA://cRqbcWNeJ:OSPHXBcakvGwMXREOHyNIXnKq6aiELvC@KweRLgWnUCylLjByWnuRM-vKj.jpF.wrSNDXa.nYS:zSeW/',
   }
 
 }

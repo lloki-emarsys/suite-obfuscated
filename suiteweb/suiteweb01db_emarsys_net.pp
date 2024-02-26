@@ -1,9 +1,9 @@
 class emarsys_sensitive::suite::suiteweb::suiteweb01db_emarsys_net {
 
   $params = {
-    'RO_VIP_CONSTRING'                  => 'nWQHx://nzJJcQbQmj:HfVNjiCNliL8WbYnKmCUIskoUGuzkxiP@dINaopLqZllQ-CXh-eh.WYKCHTZ.GC:xs6l/',
-    'RW_VIP_CONSTRING'                  => 'QAhtK://rlbmoEHQhC:MLxhXhAD7EwTFBFcxnaN3KAxWfiMknal@cJXnDEsfDpOV-gNX.vHYOuLw.pp:dJXd/',
-    'OPS_VIP_CONSTRING'                 => 'cBFoz://JWNFnAyAZM:LVcSnXRM9aO1DNtD7UyROZcsEUYHbKwE@xQmiFKTkBiiW-sWp.vRyWwyL.jZ:S5KG/',
+    'RO_VIP_CONSTRING'                  => 'OoDVz://ECHQHyokzG:JRkcqI6tAfg1yaAvbPXzYXMWLJQnsDIw@WdUhZrpafKfp-tBe-Iz.XXEPsAW.Gk:1VsP/',
+    'RW_VIP_CONSTRING'                  => 'vEstw://VeRLhlDcoe:qpIf4zMaS2G35mutBQgtLveTrhYnUPjq@QMnweSBPyYGg-sEH.PmhTkke.mo:8CZE/',
+    'OPS_VIP_CONSTRING'                 => 'AGNHX://mpZKBRfBhR:xTEgkEah8CydKO8Z9I0IDTmXbhansLYQ@OZecJKEgQ5gl-Hxf.ykbbTyk.yV:d5BM/',
   }
 
 }

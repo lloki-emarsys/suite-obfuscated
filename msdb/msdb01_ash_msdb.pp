@@ -2,8 +2,8 @@
 class emarsys_sensitive::suite::msdb::msdb01_ash_msdb {
 
   $params = {
-    'RW_VIP_CONSTRING'  => 'KKNcW://gkiiLxcJf:kNYnBTouYGYJuIUmpVlleAWG@eDgkBX-jHN.YcG.IOPgWkv.JqO:2tOQ/',
-    'RO_VIP_CONSTRING'  => 'SQzXm://PJiOKNfqj:etqU7ipqGiUVJW0BDJdrxCSF@ZLaXx0-YXx.PRa.WmXtBlq.SxF:Ckxg/',
+    'RW_VIP_CONSTRING'  => 'BamcC://zYOugjVym:lIGjkjpAqnlbenCAWibXpddt@ZABTx2-izS.goC.GzdjBHL.ngX:YnZy/',
+    'RO_VIP_CONSTRING'  => 'SihRx://qskqQbkRi:EyeJ2usspDJSgToyRtvdyhBv@LFYK1N-IDk.TjN.IkWwbiw.nVz:HOMW/',
   }
 
 }

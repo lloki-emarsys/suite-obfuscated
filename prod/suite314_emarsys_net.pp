@@ -1,22 +1,22 @@
 class emarsys_sensitive::suite::prod::suite314_emarsys_net {
 
   $params = {
-    'SUITE_APP_DEPLOY_CONSTRING'          => 'MGyTv://xLnxdTGL:DI!COgxOwWYU@FOuUB5FP-OnH.pGIYdbn.xg:19RJ/ysqgub2cvU',
-    'SUITE_APP_JOB_CONSTRING'             => 'UgHcu://EUiaN:2NNvqe=L4LjQ@qzbggqFs-QvO.XrPIMxc.rZ:xKBE/LpNSYwgt',
-    'SUITE_APP_LOCAL_CONSTRING'           => 'oNdkY://Eepyk:JnFMwb=GhYVi@IjiogLNt-kjo.aXKNXDb.gw:8QVm/fKKiT1uUNx',
-    'SUITE_APP_CONSTRING'                 => 'eHFqI://J9Fjv:ZSJHYP=nQAHX@nVxXmuBE-BoL.ZPmvEri.AP:quzy/znTngIviti',
-    'SUITE_APP_REPLICA_CONSTRING'         => 'Deqxd://BEozP:rAObIb=zDjpf@HbBTLOfG-ups.VCuweyU.Tg:GvEC/iwFuYgYXKF',
-    'SUITE_APP_ENVIRONMENTS_CONSTRINGS'   => '"UfiMZfe2.mVAYRDy.dxB TqTXE://KPzmz:qttsnL=LuOwX@YZzQHEhD-UgF.IezqhNq.ji:fodn/PgeomGiPuP"',
-    'SUITE_APP_MS_CONSTRING'              => 'fZzNh://qPJbxRJgW:GvXEUmpMLHNpDCJqZhrWGygi@PRdBOP-ejr.gLc.sJEphYX.BmI/KMsEEiA_sUbjEKKT',
-    'SUITE_APP_BOUNCE_CONSTRING'          => 'ObdEf://K0xnl:BXJnKg=i1CIo@MpNMqOjZ-tBd.dVaJsIc.bK:JcY9/cBbWVnIPfN',
-    'SUITE_APP_AC_CONSTRING'              => 'pmbmJ://rA_zorphlYR:kDaSaml6@BTLQLU-CDt.hbu.qqWgBRD.GpX:VzlC/HrSrqtCAGA_QltGKL_OLcLxKNx',
-    'SUITE_APP_PERCONA_CONSTRING'         => 'kZuco://pbHETPwnOcHDeoL:PGVQDosVRFaOzevumLcNd4qrxdJkBtpCX8yM9YnZU0U1UBLa@ztPPwwyc-MdQ.OKtcnkI.rn:1WZF/PKUxxOs9vO',
-    'SUITE_APP_PERSONALIZATION_CONSTRING' => 'kuwNr://rEaRsI:cRyDigTjXVHoSvRdhwFq@JuQie2Wb-aWc.xGUlBMS.wi:bXgp/xkVhx7Fqtc',
-    'RO_VIP_CONSTRING'                    => 'nQefb://BXrOHv:iTREE2GOEjNaZVc6@vwyJrvBB-zor-Id.kZchQnV.zb:4mz9/XXlGPerNaS',
-    'RW_VIP_CONSTRING'                    => 'XvrXN://ZjTAyBZ:dTUlWsmuxuPhethQtwfh@IbeVgFAy-JiH.qYkffgL.cB:rYXj/uQKTmYTgTf',
-    'OPS_VIP_CONSTRING'                   => 'PhhNJ://c7pSr:wLVTupVnIPKhGRimzN@Jrfcglxj-dbY.qhzoPEl.pX:Hw9n/WPxzXhCIMy',
-    'DESIGNRO_VIP_CONSTRING'              => 'rMfIv://dxGhAoZX:4klNgpJVWHkWRJmahLqvVOLc@cVQriXeD-WNa-gs.mEkdrbp.fe:dyjt/TTCnKfnUxb',
-    'SUITE_APP_WSSE_ENCRYPTION_KEYS'      => '"[tD_xNfSE+R+7EVuGZ5PXZuQF8KAwDLRKf0rZiPtrhzeSbsTpmfkpobiVDg+qcyJfrsfwfcmSxbfgMPdpDlVPIsqxw==]"',
+    'SUITE_APP_DEPLOY_CONSTRING'          => 'BaDSP://cOBtxsDz:Jv!azMiSSoYJ@IaSfvrOO-JkQ.duudjLx.Hw:nUsN/KOUPSafYit',
+    'SUITE_APP_JOB_CONSTRING'             => 'BcFrg://Ypenn:qbZgPE=QOWtc@pGFFabsq-nut.IprRUYO.uz:I7uh/pXHTPKuN',
+    'SUITE_APP_LOCAL_CONSTRING'           => 'gNiNU://XeHlN:GmFjsm=teKiw@QkqBtLLF-mCl.gfTqFPS.QC:Cuqj/FlACWOBPxY',
+    'SUITE_APP_CONSTRING'                 => 'Qxlkw://NDFhF:BprqTB=VwZXm@IqhCJUIM-YsX.dtQixOh.Gz:Vmoj/ExCKQfGfhc',
+    'SUITE_APP_REPLICA_CONSTRING'         => 'LPxDD://OOdyO:oUgFxP=WiqEC@lPmgcwJA-yPC.bbIzVAz.dZ:Ngjf/ufzJBDlCtw',
+    'SUITE_APP_ENVIRONMENTS_CONSTRINGS'   => '"jnWgKysU.QfiYjDL.nTY PATkx://WFDBY:SXxwJZ=Z0poI@dEadVgSX-dWy.OetxtCX.zA:SESI/lOWsGlKrZk"',
+    'SUITE_APP_MS_CONSTRING'              => 'uybhj://urgZBbInR:ZbiOKXGuXqofxVjwuz60wn8I@unUkt2-LJA.dOH.IiTTSzg.nsv/lpETydt_LkvCFIkU',
+    'SUITE_APP_BOUNCE_CONSTRING'          => 'vzrEL://iUOwK:AlDdbo=C0wWW@eSMUw0kR-Ass.KSbsOFR.hc:bqZu/CBrMJLbbOz',
+    'SUITE_APP_AC_CONSTRING'              => 'pjFuq://KE_eilTt1Yk:fkWuKEjb@ADumin-kyw.Vmv.lQSqgeo.nVv:n0Qs/KlPYnEmBmn_ohnRgb_cZrpK5ck',
+    'SUITE_APP_PERCONA_CONSTRING'         => 'eZtKz://EdPngonpjwVnefA:hIMynqdRhbIuatCjDSTg4KgnDLoNUz7Vq0wpSIKpMF2kbnBI@lLQhm8Wm-QxR.srWIxQL.gQ:VuME/fmVJa0RVmS',
+    'SUITE_APP_PERSONALIZATION_CONSTRING' => 'OsSte://wkNqPV:kTPcuKpREOwtuzJywvUq@MnyXrfvU-Hyz.bTJtSic.qA:uZTS/YuPDVPPiXz',
+    'RO_VIP_CONSTRING'                    => 'vHRse://KIWXlD:anNM4JvCJVlybFP3@IGaNMtOa-PtB-pe.MAzYGwc.Wc:Qcrb/otGtB8fYCg',
+    'RW_VIP_CONSTRING'                    => 'AswgI://yizNYYv:zgziZEhCbqQIIIjNRQol@mnSdqaYd-WsT.CcZqBjE.Ig:rRBw/QcnjVsmFwh',
+    'OPS_VIP_CONSTRING'                   => 'DxQWr://XdHUs:vJVeWxtdUteXSeZarF@hOrTkjyt-Fka.Zzfavnh.Hg:np2x/gxxMnDDIco',
+    'DESIGNRO_VIP_CONSTRING'              => 'ILBIy://FRyINnwR:8DLiSJPyFBAbanFEPtvAlZJI@AzWgVHEQ-szV-py.INrdZSq.Pj:rpYC/tkUayc3XwR',
+    'SUITE_APP_WSSE_ENCRYPTION_KEYS'      => '"[lM_hadCN+k+n5VAvCExTYszyhTHNlDdRNCEazzkDapDLHSTOFChEgJWeoZ+HNrUSHSCJAThuhDgJmFOZirOHDVRTx==]"',
   }
 
 }

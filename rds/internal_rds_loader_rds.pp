@@ -2,9 +2,9 @@
 class emarsys_sensitive::suite::rds::internal_rds_loader_rds {
 
   $params = {
-    'RO_VIP_CONSTRING'  => 'UPobD://DFL_utZedf-sC:oSRmAUXQIdtqxmcLMlukOqFp@FnTlXWBO-viuxWHIUrHga-VES-es.QtrpBqZ.tC:PYq3/tsr_rqcfVG',
-    'RW_VIP_CONSTRING'  => 'pTuHn://oyn_MEaFNR:FLxeEEhXmqhIfwgjrHBoTfRd@TRnSTOfI-LNaJsRIWxzIT-upr.FfMoiUi.Cq:K76K/oJL_OZheqY',
-    'OPS_VIP_CONSTRING'  => 'JwTBs://RTI_MUwfvO:XYGzQNpzCqnEWFJxoTJLVKTf@lFRjIFRW-bfIRTuQmTHxf-cFr.gXtNWxN.tl:y2Cq/XVD_ZuNqiX',
+    'RO_VIP_CONSTRING'  => 'VGECU://wbx_tBZcNa-cc:AgpEpuQdzhTyXyxuPMszcqrB@jnjJonva-VHPKJecrHiKM-hpj-NQ.IKKGOCn.fr:qlct/KxL_pnXWvk',
+    'RW_VIP_CONSTRING'  => 'PeSdl://ZDm_dkvGUl:hCkWCbLOWdlAeCGIpA7MeUAn@infegneD-PEyNhhpkwKnp-rfT.imIiQuk.FP:wet6/DGo_nOXUEc',
+    'OPS_VIP_CONSTRING'  => 'GAqZq://FNR_IgNlAI:rbaVSCryStJVmdyNyUXvqBPw@JnmZnnHu-YFwfhaLnPmxO-OrV.juAibpj.qY:n6fB/JCi_TrsUPi',
   }
 
 }

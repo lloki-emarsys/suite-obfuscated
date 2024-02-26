@@ -2,9 +2,9 @@
 class emarsys_sensitive::suite::rds::emea_rdsemeadb_rds {
 
   $params = {
-    'RO_VIP_CONSTRING'  => 'lcpju://aWmLTkTHzARi:eCttpJqJTJ7JzMSHpyHdHcMS@TLnOuXsso-nXn-PY.RYZgTJx.wg:QzpN/gCE_fLdE',
-    'RW_VIP_CONSTRING'  => 'URpfu://mbzVcKXMPjSb:roJHUMkGrypsfIGazE1KYs0r@yRAcuhFNZ-Nez.IhcMMrZ.AJ:ZDHg/eNX_OFCR',
-    'OPS_VIP_CONSTRING' => 'PnnUW://xzJtVYJHPcfZW:CWbMcbSIRpfhedhoseaiQvSx@mFyGMshQG-KFt.nMoUbts.nD:PuUs/JQQ_ROtU',
+    'RO_VIP_CONSTRING'  => 'SEuJB://VpuaYLbfwYTk:mkL5odPJLhyKZlOnYtY4htep@KtUlptuIO-eFY-oS.EDePCMk.ec:na8r/BFy_Shvx',
+    'RW_VIP_CONSTRING'  => 'DMBWv://NSuarmqcJGBk:UKElNYMRUxNPwugUtgrSin6O@HwDiWOOgW-Ayf.hgIiAnN.Zs:TZ7c/KFd_xxmJ',
+    'OPS_VIP_CONSTRING' => 'aluOv://rrGyheyKissdr:LOLTQmQRBKiYJEccbmvIM5Tj@jqVbkbAGH-LFx.cjYkIfM.KX:BJ2A/XrY_Jpps',
   }
 
 }

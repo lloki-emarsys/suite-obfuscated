@@ -1,7 +1,7 @@
 class emarsys_sensitive::suite::moneymakerdev::login_moneymakerdev {
 
   $params = {
-    'RO_VIP_CONSTRING'                  => 'xmfTf://lwuhmtKtLWjwOvq:C3IRIjX4lnzLMnfnVgub@CVJLhDyR-Xpq-Ps.XCBVRuL.Na:tWNZ/RTtRIdSf',
+    'RO_VIP_CONSTRING'                  => 'rojkG://HavznGrnSEivzjO:HquPyRpgliffGpQXMizC@cxPbufgZ-Ncz-Ju.vrefRpF.hw:eRNq/crVlDVJH',
   }
 
 }

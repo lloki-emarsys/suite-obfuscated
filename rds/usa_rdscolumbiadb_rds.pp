@@ -2,9 +2,9 @@
 class emarsys_sensitive::suite::rds::usa_rdscolumbiadb_rds {
 
   $params = {
-    'RO_VIP_CONSTRING'  => 'RdqKc://GabnKSxy:lHVAKurZYy9wJXOJPcSGJFNmw@GYXcaAiMbcyeU-taO-BD.teo.fPNYpuW.SIP:iLDt/pZI_xGHLqkNxMI',
-    'RW_VIP_CONSTRING'  => 'LeTSX://WpZDCyYL:YppojqAMlbzMYJJHgTSkSWwtt@tPWaHCqLIuooJ-GCg.NBI.ALHqQip.IkS:BNbw/dKD_auMpEzSZjn',
-    'OPS_VIP_CONSTRING' => 'DPksj://ssJOYAxbG:CZcmTAyXRugUBH1u9SBQRpbRH@gBWhBzvlaRvvV-XeH.lAS.jOYOhxz.wUc:Oheh/',
+    'RO_VIP_CONSTRING'  => 'SQFaP://pNqhrOcR:weMW5ZXe2D9TABaQyBfsZFMOn@KyLQFXtOOHBaW-UJo-Xt.dgP.KlVdfmq.nev:Btwv/VYy_maCmauGIJR',
+    'RW_VIP_CONSTRING'  => 'oljpf://ENugMuWw:vXoFBeOrGbhuhqwiykYnLEyLz@qFSNjovnHZNuS-WUz.Iaf.POwjzvr.noO:Dvqy/Boz_vFpLjyUCGE',
+    'OPS_VIP_CONSTRING' => 'aaEBl://AIpiYOHcR:rmDxSSUaRUYRsrFyWhlAUweIQ@GwYDSXwCvVWyG-WFV.kYC.jUtVBTT.nXf:SQoq/',
   }
 
 }

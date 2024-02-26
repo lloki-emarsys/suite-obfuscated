@@ -2,8 +2,8 @@
 class emarsys_sensitive::suite::internal_services::stage_pipeline_internalservices {
 
   $params = {
-    'RO_VIP_CONSTRING'                  => 'GNLMD://jyZFBmENTzk:TyNGExXwRliAmWkqPBZGSe7I@VBPSLPmZ-rlOBEHwLSWhn-Rkz-Gy.wiXMXHG.zP:xCuX/EchjqMYL_ffXuhrC',
-    'RW_VIP_CONSTRING'                  => 'gZErC://DopxoeglBdQ:QOsbPTsHdvw0fNHgfsavLWyf@KdTSrqqt-ntlldWCct2YI-gLs.CjPJYfH.pt:HNeo/gAKJvysJ_DlsRAjb',
+    'RO_VIP_CONSTRING'                  => 'EuSiu://XtHlSmOnWkU:vXnozJrKJtiGaWxEIeVDLcWA@vnQXGnoV-NYjzVaJUpvVb-tQb-lG.eWcbvMg.nR:X2z5/OBrZQjnv_dFSuHno',
+    'RW_VIP_CONSTRING'                  => 'OnmZN://tFCpcjLnwnS:ahPFIuRzUhKTfGIaIerFjKRA@OnoQLnoP-gVzaOurZ5rMY-Iln.kfnwMtQ.JF:9xGt/OHzWIanb_IBsTanm',
   }
 
 }

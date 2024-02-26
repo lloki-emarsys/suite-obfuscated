@@ -1,22 +1,22 @@
 class emarsys_sensitive::suite::prod::suite18_emarsys_net {
 
   $params = {
-    'SUITE_APP_DEPLOY_CONSTRING'        => 'RLbuj://QCWrYVClf:LvephxRVZytPSxFvHPrgRidv@sUHKjNTmt-dzE.NjHVznQ.FM:cuEh/dADkS94Qz',
-    'SUITE_APP_LOCAL_CONSTRING'         => 'hxtkK://aXXBSlVUutwIbf:FZEIycGCGNYuZjJcgjpjKZlVZCDplYRQ@MHAKxrbJJrSy-IPi.AgzPpmj.re:vQi9/RAmno0wdYFNl',
-    'SUITE_APP_CONSTRING'               => 'zhLzI://XSvInu:HhZOxxVQUDBECxGFEaxqr0Dp@GBXhbH8NN-SRB.NvxHMlf.Xs:RG8m/NDvrFgqzA',
-    'SUITE_APP_REPLICA_CONSTRING'       => 'emOVi://YFaQSp:MnCuBoFQnb7wMCigbgFzdxKr@vUgyr4iCQ-xXF-iS.ulKgdKJ.Fh:LlPD/AcOeca4Qi',
-    'SUITE_APP_ENVIRONMENTS_CONSTRINGS' => '"IfSTSws.SCpXthR.JHv CzfeW://L3IQhF:CPbOLqaJjWPdmQaHnVrm0YOa@ZwZXAVWcm-GaZ.PQDGRyF.SZ:hDWa/SqgEYFxGl"',
-    'SUITE_APP_MS_CONSTRING'            => 'dxWlm://oomvcfHrU:zcCDnTx5gmcShRuhnfaAVhj2@uVoArE-ITG.Ocj.DNXWMja.JRI/LQEyGCF_FBktA4Z',
-    'SUITE_APP_BOUNCE_CONSTRING'        => 'nHfzb://wLiskt:gFFebSpohcAuOFlteEEvDwHv@pFEToftWr-RHn.FleUNcA.Nr:Twe8/cgCtZS5Iq',
-    'SUITE_APP_AC_CONSTRING'            => 'aLWfC://VF_xIwKtuo:LFKhSIQ7@ALYrUc-gSw.iydaxDY.ER/wTKnxcKvmr_bdexcL_XwLDZQm',
-    'SUITE_APP_PERCONA_CONSTRING'       => 'CAwxO://cJFtIbxEFaRTPdu:ZBhttYkcuuSzJtOYXOgpOeWLK4pyBVnGBVBIiTFlOU2MErQn@GyMklEHLI-gWN.EQeQjjP.mR:2lsJ/MdPhqGBMz',
-    'RO_VIP_CONSTRING'                  => 'OWfpK://UBLMniC:jZznfnTsvUQJSCQRKVoArrbV@aEFVpljkG-YZM-My.DhaUSpT.if:c4Cw/BjMhMT2pF',
-    'RW_VIP_CONSTRING'                  => 'VOzgo://ua5jJqoN:FzgVONWtetxdOBdVpgMCfivH@nGKTy1QuD-tbi.xuEiAOj.Yr:1wpx/DtdUR7hZs',
-    'OPS_VIP_CONSTRING'                 => 'ZBADL://BjxXng:qj1eZKDdKfkobMHGOOldsXQE@GMJdrfOux-oBf.cVmCFlF.ln:jMGs/gQlmq6tjw',
-    'SUITE_APP_PERSONALIZATION_CONSTRING' => 'KzUhK://eCNJKrS:zXXBJQVDKjNRFnIQwBLH@PAkJsRMCI-nqI.JeKWMOE.fe:j4xs/bmIIQipWN',
-    'SUITE_APP_WSSE_ENCRYPTION_KEYS'    => '"[Rs_OuTeFoTDTUjIIq+uNEfxpZ/bMPBeOZyogphTdykp/YQsBYNz/qftxhFiAmdLnTawOKlw92VQaxWdcef1kzjOxV==]"',
-    'SEGMENRW_VIP_CONSTRING'            => 'eWizi://APKCwnIVEPw:dicANavZypJPUHVefgXm@mLtYcniil-KTE.STeWYtF.ZV:f9cf/gYMfVBzcH',
-    'DESIGNRO_VIP_CONSTRING'              => 'qrorp://NCMFoOSZ:ZTEvaijers0EiGgkUqIRiFUt@ycxhNhquS-nrk.ytwHEfp.DW:Akg3/rhIDhcJdI',
+    'SUITE_APP_DEPLOY_CONSTRING'        => 'CPEId://YrgyGchrv:TfdMRloxWpruOswAYpyknVfS@NEJiNRRXH-xaP.PlKksbJ.fS:BRjz/pXgjAadIx',
+    'SUITE_APP_LOCAL_CONSTRING'         => 'bUfkM://ZGBMpFMMfiZeXw:HtXPEmbcZsXeMdhwkFecRLYJusLvOqqI@fluhLkazCrKI-GIW.HbJdSIz.oR:Z6br/FFqPAUhHDAWa',
+    'SUITE_APP_CONSTRING'               => 'YAgXh://FtpJog:WZfeXuYVQwTeJrPZOYvLfIzk@xIUAVUNjh-OAl.NpvarrQ.WF:N9Gj/oqtgijVfa',
+    'SUITE_APP_REPLICA_CONSTRING'       => 'BFVlP://EtJtYf:njQkZANycTcFUzRjkWboBbYK@GnBPkDTZq-Imt-wL.JxIzExM.uC:qzIJ/YiRTN4uCI',
+    'SUITE_APP_ENVIRONMENTS_CONSTRINGS' => '"lIZZJBy.VkteBdR.niG EOolX://jCHCLs:UUcbVikH0dNGKbWSWjI7o9GK@xnZifQMHz-FgF.fGItygC.fs:lVBj/geMAjMThg"',
+    'SUITE_APP_MS_CONSTRING'            => 'rmTRS://ggptOUZLm:cHBBDHJZiBsUSsHeZUgJRMRO@zmBznK-loW.feR.GtLmFiI.nWB/HCrFztr_DRtNAlp',
+    'SUITE_APP_BOUNCE_CONSTRING'        => 'MZnsj://jZ6bPX:wKZklumRJw7NiHUjZMXzwieP@jEJUfa6Ey-CDo.VxehoOg.uS:TA3s/BnsceqMxi',
+    'SUITE_APP_AC_CONSTRING'            => 'bqTOg://Xi_uXxUcDk:yolSIkne@YEsxoQ-tMw.FojCtNS.yW/SOIGrGBoWn_zpnsMe_UdGXsty',
+    'SUITE_APP_PERCONA_CONSTRING'       => 'VgNJx://fPZnlMnbgmHnBNj:ovCwAweFrr4uhavaUllyKNlnoOKNZhYZgfeIPFduKJ28dVHb@xkefKvNhH-qVk.fvpccnp.ON:ALbi/WsidUzCUf',
+    'RO_VIP_CONSTRING'                  => 'bLroA://wjZJZDG:eFxAeJPKFWovePhkGBFPZwWC@fQHHXEPBl-cTx-js.IZCAgtU.wM:twgM/qoICXOpte',
+    'RW_VIP_CONSTRING'                  => 'RPSIG://uIgEbsbi:VnmPWsXSGIwOeouOnroXxZPb@pGlGrIzQQ-mxY.diGSTNX.EL:L47Z/lNRhuVfCM',
+    'OPS_VIP_CONSTRING'                 => 'FLkqx://y8AmPm:sdUZTfUrZYXmncxnnr2HwBVL@XjTKyBrOW-uAy.FFrvmdX.It:jqWh/FIHtfALsx',
+    'SUITE_APP_PERSONALIZATION_CONSTRING' => 'MBQTU://RADVPOx:ZXokyjjKOlTezxsPDHLq@svTmFDfae-jUq.mTRpavf.fw:7e20/QuEUlsOkD',
+    'SUITE_APP_WSSE_ENCRYPTION_KEYS'    => '"[Jb_UvBtfgAIvfwfin+mYLKknS/QFotORPqJzBQXQkKR/Og0Xsnp/HNXMUHRHAgpIZZyqFPLJnnnevlXcDoOCbvxtS==]"',
+    'SEGMENRW_VIP_CONSTRING'            => 'okSNi://DVyxTXAwnDD:BZPDFlCDnxbLK2GfoNGE@nywMVzVtL-yqi.yktPagz.rx:eBfm/jpRJoh7sW',
+    'DESIGNRO_VIP_CONSTRING'              => 'ezHVi://kmGjAntb:nbEvw1LvGjkfRnOZHmjdbzul@QLIjxsyYm-eor.ZUdtAex.et:UNMP/FugaXnzMY',
   }
 
 }

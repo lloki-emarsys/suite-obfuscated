@@ -2,7 +2,7 @@
 class emarsys_sensitive::suite::greenplum::si_gp1_greenplum {
 
   $params = {
-    'RO_VIP_CONSTRING' => 'EaeO://Bf_SyNRSlwH:LpnbdSRrvPlvOlDENHFNUml@GG-gaE-vjf.DJR.FEWcmjE.yDI:gycT/sLnLD_kjPvzaR',
+    'RO_VIP_CONSTRING' => 'UDJF://WS_SmlDYnfE:cXMScykjFlcXeIDHJXEfFrf@jU-UY3-jsd.RYJ.lKkOOhg.nFi:wUSe/ejUdt_oniSFpT',
   }
 
 }

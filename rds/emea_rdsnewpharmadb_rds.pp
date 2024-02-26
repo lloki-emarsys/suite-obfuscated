@@ -2,9 +2,9 @@
 class emarsys_sensitive::suite::rds::emea_rdsnewpharmadb_rds {
 
   $params = {
-    'RO_VIP_CONSTRING'  => 'IaeRZ://oYsiTLrb:vtCcxeMWtao2XSlux2AQmGaY@oSMlRoxWKSNaUz-qha-fH.HLT.wrtcOQY.gAU:bPU7/xrLPSDQzCNMhlt',
-    'RW_VIP_CONSTRING'  => 'UMZJC://lZyPnhzx:iVWpPTAnrHDmeYgzTYKnydnC@xGpAxWqDiLDGcB-MAA.Ebr.FSyYZma.IBQ:ZhBw/bGjIzIfgQuLLrv',
-    'OPS_VIP_CONSTRING' => 'vEZKH://VNnhdRhZq:gripd5ibHgeDXNaNwOQUaNiP@wLWZdfIHpJUWRr-FSU.tJn.yPsvXBk.ZIT:wP6K/GzAsdjNSAQseCI',
+    'RO_VIP_CONSTRING'  => 'zCjDg://DiiNplyG:RIJvHoncYEHaKwUrirctdAsn@tQanfgdUYVqowM-nFH-Yn.ZFW.mjDWcyT.nKp:uRmf/nqtnVaxQVTuPMf',
+    'RW_VIP_CONSTRING'  => 'hnquQ://XWtyauth:EsjfjeEjnU93ykgYMjQMAJCN@wDZnhSPHQkVBCA-HNi.GyE.JnzKfEx.npb:mSCE/zpAnudKmdMgLyp',
+    'OPS_VIP_CONSTRING' => 'eWMOX://FlIrXwgga:oEGhXvCwVznvkcdPTICcFbyx@AsRnnPmbWvfuKC-WVT.MIB.TUhHdLk.nSn:FnHo/jhhngWlJfgDXIu',
   }
 
 }
